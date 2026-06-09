@@ -7,7 +7,8 @@ A full-stack web platform with 5 AI-powered media tools built with Python and Fl
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat)
 
 
-<img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/7a4302e5-2674-42af-bd0e-9d08cc7bcdf8" />
+<img width="1918" height="881" alt="image" src="https://github.com/user-attachments/assets/48b24112-dac9-4edd-b54e-886837f4be10" />
+
 <img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/591f68bf-1dd2-4497-8937-a57a10c8ed77" />
 
 ---

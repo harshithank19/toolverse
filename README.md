@@ -103,6 +103,7 @@ toolverse/
 | `GROQ_API_KEY` | Your Groq API key for the AI chatbot |
 
 ---
+<img width="1109" height="571" alt="image" src="https://github.com/user-attachments/assets/24c1073f-533a-4d6e-bf94-e827b8305f7e" />
 
 ## 👤 Author
 

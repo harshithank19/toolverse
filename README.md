@@ -1,4 +1,4 @@
-<img width="1919" height="899" alt="image" src="https://github.com/user-attachments/assets/d51b8551-3697-4852-a76f-b820c7acf8ca" /><img width="1919" height="906" alt="image" src="https://github.com/user-attachments/assets/96cdf11e-85d2-403e-a811-b165c0102ee3" /># ⚡ ToolVerse – AI-Powered Multi-Tool Web Platform
+# ⚡ ToolVerse – AI-Powered Multi-Tool Web Platform
 
 A full-stack web platform with 5 AI-powered media tools built with Python and Flask. Convert, transcribe, summarize, and listen — completely free, no sign-up needed.
 
@@ -111,5 +111,5 @@ toolverse/
 
 ## 👤 Author
 
-**Harshitha NK**  
+**Harshitha N.K.**  
 [GitHub](https://github.com/harshithank19)
